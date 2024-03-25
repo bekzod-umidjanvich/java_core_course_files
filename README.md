@@ -36,6 +36,6 @@ Contributions to improve these tutorials are welcome! If you find any issues or 
 
 Happy coding!
 
-[tutorbek](https://github.com/bekzod-umidjanivch)
+[tutorbek](https://github.com/bekzod-umidjanvich)
 
-Replace `bekzod-umidjanivch` with your actual GitHub username. This README.md file provides a concise overview of the topics covered in your Java Core tutorials, making it easier for users to navigate and understand the content.
+Replace `bekzod-umidjanvich` with your actual GitHub username. This README.md file provides a concise overview of the topics covered in your Java Core tutorials, making it easier for users to navigate and understand the content.
